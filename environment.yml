@@ -1,0 +1,13 @@
+name: sql-4-ml
+dependencies:
+- python==3.10
+- pip==23.2.1
+- pip:
+  - pandas==2.0.3
+  - scikit-learn==1.3
+  - numpy==1.25.2
+  - tableauhyperapi==0.0.17537      # for HyPer
+  - psycopg2-binary==2.9.6          # for PostgreSQL
+  - postgres==4.0
+  - matplotlib==3.7                 # for Matplotlib
+  - scipy==1.11.1                   
