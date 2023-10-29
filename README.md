@@ -1,4 +1,4 @@
-# Implementing SQL-based Softmax Regression for MNIST data
+# SQL-based-Softmax-Regression
 
 ## Intro
 
