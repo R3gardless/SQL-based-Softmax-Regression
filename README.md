@@ -1,4 +1,4 @@
-# SQL-based-Softmax-Regression
+# SQL based Softmax Regression
 
 ## Intro
 
@@ -16,7 +16,7 @@ Repository for __*Implementing SQL-based Softmax Regression for MNIST data*__ pa
 
 1. Install using `environment.yml` file
 ```bash
-$ conda env create -f enviroment.yml
+$ conda env create -f environment.yml
 ```
 2. Activate conda environment
 ```bash
