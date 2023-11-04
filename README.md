@@ -2,7 +2,7 @@
 
 ## Intro
 
-Repository for __*Implementing SQL-based Softmax Regression for MNIST data*__ paper experiment code [[paper](https://drive.google.com/file/d/18ymVk7ZeyMQxpIw3iB-CqTMkhwqKSuWq/view?usp=drive_link)] [[ppt](https://drive.google.com/file/d/1S6TcjOeh1CW-vy_LbuR_VzrFgl90l8RN/view?usp=sharing)]
+Repository for __*Implementing SQL-based Softmax Regression for MNIST data*__ paper experiment code [[paper](https://drive.google.com/file/d/18ymVk7ZeyMQxpIw3iB-CqTMkhwqKSuWq/view?usp=drive_link)] [[ppt](https://drive.google.com/file/d/1eJq22XtoCcpZiZDEYuczaypPEnyZObZh/view?usp=drive_link)]
 
 ## Requirements
 
